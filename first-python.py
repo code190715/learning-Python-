@@ -71,3 +71,13 @@ print()
 print(name[0:2]);
 print(name[2:]);
 
+
+imCool = True;
+imLame = False;
+
+if imCool:
+    print ("Usman is cool");
+else:  
+    print ("Usman is a loser");
+
+

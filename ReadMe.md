@@ -1,5 +1,5 @@
-This is me learning python for the first time. 
-Below are my notes.
+//This is me learning python for the first time. 
+/*Below are my notes.
 Source of learning:
 https://www.freecodecamp.org/news/the-python-handbook/amp/
 
